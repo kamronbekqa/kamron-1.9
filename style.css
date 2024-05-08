@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    max-width: 1440px;
+    padding: 30px 120px;
+    margin: 0 auto;
+
+}
+h1{
+text-align: center;
+  background-color: antiquewhite;
+}
+main{
+    display:flex;
+    justify-content: space-around;
+   
+    gap: 30px;
+  
+
+}
+a {
+flex-direction: column ;
+}
+
